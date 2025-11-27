@@ -54,7 +54,7 @@ A branch `main` permanece como referência da implementação original.
 
 A imagem abaixo representa o código rodando exibido no Eclipse IDE:
 
-![Screenshot](./imagem_2025-11-26_2214345540.png)
+![Screenshot](imagem_2025-11-26_221434540.png)
 
 ---
 
