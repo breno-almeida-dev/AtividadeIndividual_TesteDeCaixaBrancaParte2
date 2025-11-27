@@ -23,7 +23,6 @@ Também está presente o método `calcular()`, que recebe um operador e selecion
 O repositório contém:
 
 
----
 
 ## 📝 Testes Implementados
 
@@ -53,18 +52,16 @@ A branch **main** permanece com a implementação original para fins de compara�
 
 ## 🖼️ Screenshot do Projeto
 
-A imagem abaixo foi anexada ao repositório e representa parte da documentação sendo exibida no Eclipse IDE:
+A imagem abaixo foi anexada representa o código rodando que está sendo exibida no Eclipse IDE:
 
 ![Screenshot](./Captura%20de%20tela%202025-11-26%20202910.png)
 
-> ⚠️ Caso seu arquivo tenha outro nome, basta ajustar o caminho acima.
 
 ---
 
 ## 👨‍💻 Autor
 
 **Breno Almeida**  
-Disciplina: Técnicas de Programação e Teste  
 Faculdade: FACENS — Sorocaba
 
 ---
