@@ -1,6 +1,6 @@
 # 🧮 Projeto Calculadora — Teste de Caixa Branca (Parte 2)
 
-Este repositório contém a implementação revisada do **Projeto Calculadora**, aplicada na disciplina de Técnicas de Programação e Teste.  
+Este repositório contém a implementação revisada do **Projeto Calculadora**.
 A proposta desta parte do trabalho é realizar **refatoração**, **melhoria da legibilidade**, **produção de documentação (Javadoc)** e **execução de testes de caixa branca**.
 
 ---
